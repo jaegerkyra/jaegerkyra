@@ -8,10 +8,13 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-### I'm currently working on...
-- WGU Class: Scripting and Programming - Applications – C867 (C++)
-- C++ Projects that _spark joy in my life_
-- Learning how to use GitHub as a portfolio
+### My 2022 Goals
+- Complete 10 classes
+- Learn 3 new technologies
+- Do a "100 days of coding" challenge
+- Get more involved with volunteering
+- Read 1 book
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegerkyra&layout=compact)
 
@@ -32,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
