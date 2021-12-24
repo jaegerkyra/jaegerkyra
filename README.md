@@ -15,8 +15,11 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 - Get more involved with volunteering
 - Read 1 book
 
-
+### GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegerkyra&layout=compact)
+
+### GitHub Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaegerkyra&theme=dark" width="48%" >
 
 
 
