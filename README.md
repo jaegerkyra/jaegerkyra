@@ -7,13 +7,16 @@ I can't seem to stop eating unreasonably spicy food.
 And I have a soft spot for listening to vinyl records. Welcome to my GitHub profile!
 
 ### My 2022 Goals
-- Complete 10 classes
+
+<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_classes.png">
+
+
 - Learn 3 new technologies
 - Do a "100 days of coding" challenge
 - Get more involved with volunteering
 - Read 1 book
 
-<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/testpic.png">
+
 
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
