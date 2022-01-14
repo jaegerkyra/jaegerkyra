@@ -13,6 +13,8 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 - Get more involved with volunteering
 - Read 1 book
 
+![alt text](https://github.com/jaegerkyra/jaegerkyra/testpic.png)
+
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <br>
