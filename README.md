@@ -8,7 +8,7 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 
 ### My 2022 Goals
 
-<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_classes.png">
+<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_classes_10.png">
 
 
 - Learn 3 new technologies
