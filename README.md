@@ -6,19 +6,12 @@ I have more lines from The Office memorized than I should.
 I can't seem to stop eating unreasonably spicy food.
 And I have a soft spot for listening to vinyl records. Welcome to my GitHub profile!
 
-### My 2022 Goals
-
-<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_classes_10.png">
-
-
-- Learn 3 new technologies
-- Do a "100 days of coding" challenge
-- Get more involved with volunteering
-- Read 1 book
-
-
-
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br>
+
+<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_Goals.png">
+<!--<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022_Goals.png">
+-->
 
 <br>
 
