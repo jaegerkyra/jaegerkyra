@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 **My name is Kyra!**
@@ -6,7 +7,7 @@ I have more lines from The Office memorized than I should.
 I can't seem to stop eating unreasonably spicy food.
 And I have a soft spot for listening to vinyl records. Welcome to my GitHub profile!
 
-<a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 <br>
 
 <p align="center">
@@ -25,7 +26,7 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 ### GitHub Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaegerkyra&theme=dark" width="48%" >
 
-
+<a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!--
