@@ -23,8 +23,12 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 ### GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegerkyra&layout=compact)
 
+<!--Old Github streaks widget code
 ### GitHub Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaegerkyra&theme=dark" width="48%" >
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaegerkyra&date_format=M%20j%5B%2C%20Y%5D&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
