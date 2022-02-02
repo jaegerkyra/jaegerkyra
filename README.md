@@ -13,7 +13,7 @@ And I have a soft spot for listening to vinyl records. Welcome to my GitHub prof
 <p align="center">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/2022_Goals.png">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/Classes/2022_ClassesGoals_2%20partial%20classes.png">
-<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/100%20Days%20of%20Coding/2022_100DaysGoal_15.png">
+<img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/100%20Days%20of%20Coding/2022_100DaysGoal_16.png">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/New%20Tech/2022_NewTechGoals_0.png">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/Book%20Goal/2022_BookGoals_0.png">
 </p>
