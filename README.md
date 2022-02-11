@@ -5,7 +5,7 @@
 
 I have more lines from The Office memorized than I should.
 I can't seem to stop eating unreasonably spicy food.
-And I have a soft spot for listening to vinyl records. Welcome to my GitHub profile!
+And I have a soft spot for listening to vinyl records. <strong>Welcome to my GitHub profile!</strong>
 
 
 <br>
