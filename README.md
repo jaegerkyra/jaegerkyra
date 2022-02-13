@@ -6,10 +6,13 @@
 I have more lines from The Office memorized than I should.
 I can't seem to stop eating unreasonably spicy food.
 And I have a soft spot for listening to vinyl records. <strong>Welcome to my GitHub profile!</strong>
+- 📚 I’m currently learning more in depth web development (HTML, CSS, and JavaScript) from a Udemy course
+- 😄 Pronouns: She/Her
+- ☕ Favorite Cafe: Cafe Corazon in Kansas City - I recommend ordering the Spicy Mayan Mocha if you aren't afraid of a lil' heat 🔥
 
+<a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<br>
-
+<h2></h2>
 <p align="center">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/2022_Goals.png">
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/Classes/2022_ClassesGoals_2%20partial%20classes.png">
@@ -18,15 +21,13 @@ And I have a soft spot for listening to vinyl records. <strong>Welcome to my Git
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/Book%20Goal/2022_BookGoals_0.png">
 </p>
 
+<h2>My Github Stats</h2>
 
-### GitHub Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegerkyra&layout=compact)
-
-### GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaegerkyra&date_format=M%20j%5B%2C%20Y%5D&theme=dark)](https://git.io/streak-stats)
 
 
-<a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
