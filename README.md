@@ -18,7 +18,7 @@ And I have a soft spot for listening to vinyl records. <strong>Welcome to my Git
 <img src="https://github.com/jaegerkyra/jaegerkyra/blob/main/2022%20Goal%20Images/Book%20Goal/2022_BookGoals_0.png">
 </p>
 
-<br>
+
 
 ### GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaegerkyra&layout=compact)
@@ -27,7 +27,10 @@ And I have a soft spot for listening to vinyl records. <strong>Welcome to my Git
 ### GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaegerkyra&date_format=M%20j%5B%2C%20Y%5D&theme=dark)](https://git.io/streak-stats)
 
+
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
 
 <!--
@@ -43,6 +46,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### GitHub Top Languages
+### GitHub Streaks
 -->
 
 
