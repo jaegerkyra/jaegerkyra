@@ -11,6 +11,7 @@ And I have a soft spot for listening to vinyl records. <strong>Welcome to my Git
 - ☕ Favorite Cafe: Cafe Corazon in Kansas City - I recommend ordering the Spicy Mayan Mocha if you aren't afraid of a lil' heat 🔥
 
 <a href="https://www.linkedin.com/in/kyrajaeger/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![BuiltWithLove](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <h2></h2>
 <p align="center">
