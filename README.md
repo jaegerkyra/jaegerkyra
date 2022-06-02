@@ -6,7 +6,7 @@
 I have more lines from The Office memorized than I should.
 I can't seem to stop eating unreasonably spicy food.
 And I have a soft spot for listening to vinyl records. <strong>Welcome to my GitHub profile!</strong>
-- 📚 I’m currently going through <a href="https://testautomationu.applitools.com/learningpaths.html?id=web-ui-java-path">Test Automation University's Web Java UI</a> learning path.
+- 📚 I’m currently learning about NFC tags, SQL more in depth, and APIs for a personal project!
 - 😄 Pronouns: She/Her
 - ☕ Favorite Cafe: Cafe Corazon in Kansas City - I recommend ordering the Spicy Mayan Mocha if you aren't afraid of a lil' heat 🔥
 
